@@ -17,19 +17,19 @@
     {
       "description":"le bot lira tous les status automatiquement (oui pour activer et non pour désactiver)",
       "value":"oui",
-      "required":false
+      "required"true
     }, "TELECHARGER_AUTO_STATUS":
     {
       "description":"le bot téléchargera tous les status automatiquement (oui pour activer et non pour désactiver)",
       "value":"oui",
-      "required":false
+      "required"true
     }
     ,
     "NOM_BOT" : {
        
       "description":"Un nom pour votre bot",
       "value":"Hacking-MD",
-      "required":false
+      "requiredt"true
 
     } ,
      "LIENS_MENU" : {
@@ -44,7 +44,7 @@
      {
       "description":"Les commandes seront pas fonctionnelles en priver pour les autres utilisateurs (oui pour activer et non pour désactiver)",
       "value":"non",
-      "required":false
+      "required"true
     }
     ,
     "MODE_PUBLIC":
@@ -71,7 +71,7 @@
     "SESSION_ID":
     {
       "description":"veuillez renseigner votre id de session",   
-      "value":"",
+      "value":"HACKING-MD;;;=>eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQ0xJdXlydnRNVHhwZUpQbmhUNGxWM2x6OWI0b2p6TWxrY25BdWdwaWNVaz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicytTQUZSTWo3OTJSeitYNjBDbHVRU3l6TDZ2dUd6NFpaT21jZi90T1BsOD0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJHS0dMRGJvVkFzaWdFTUt2RjVwTTBGR0IrMTJqSmZPMTYxd0VsUlplUm1FPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJvSnhId05mZVR1Z01oZHdJZnZpMXdtWmd6dkxiVzNicWJZaG1vNjRYMG40PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Im9NREc0dUVFR08xeWkxNldVcFlOM1NEY01xMkVlUlRFaTNqNHZIOWRSV3c9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IklSOEtlVEh5aEV1aGQ3S2hmR0lnWi9mVTVpU2g3OG1IcndRdlhzbEFlbDA9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoieU0wMktCNTV0bk45MXYwTnhaVjdzR2VqYUdMcHdWK3pGK3c1dkI0dDhWQT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRW5lUjVBcFVFdDNwNlF2MmVtNXBLSHpMUktUNmtsZjV1SVlCaFF1ZlNXOD0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InZGQXNBZmFBK01MYUVKNUI5M3IydXl1aXQyeUw3MjNUQVVpUkt4WWlMREY5UERiTEJRbmxJcEk5V3dMaEFBVTk2YnhodWtZQ21DNW9FRmJQbEpxWkR3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTI4LCJhZHZTZWNyZXRLZXkiOiI0Y1pCalhqZ1lLamZDNjVRQTdvOTVuVFovc0NlRlg0Ui9XOWQzSk9KUmFZPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJ2V0xyNmdicVNCcWhpRVdUeEhaTVNBIiwicGhvbmVJZCI6IjM2MTdlMzJhLWFjMjEtNDVmYy05YTA3LTY1Y2U5ZDBiNjc1YiIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI0RVRVV005UGJYSE1rN3JQS3NjeEd1bjhKWjA9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiT3VpZEF4UWRLYVpvOWJ6ZkYybHE1bWNBS3Y0PSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IjI2TlkyNzZKIiwibWUiOnsiaWQiOiIyNDEwNDU1MjY1Mzo1M0BzLndoYXRzYXBwLm5ldCIsIm5hbWUiOiJraW5nc2xleSJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDSnl3a1Y4UW1ZelZ0QVlZQ3lBQUtBQT0iLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiZ09jbWtnUFJRcG8zZTZpVHZsWUoxaUFaRGZOQmxsS1Z4KzRoNFJFbHZuMD0iLCJhY2NvdW50U2lnbmF0dXJlIjoieklqTURxUWtlRlVPaGc0THp6eUF2LzIrSXZTRzBZSEhtZzNWTlFOQzlYeWdLQ1V4dFRlMmR6eUtjR3hEbXBWay9tbjUxU2hSQlNneHFyQ3M3UnFtRGc9PSIsImRldmljZVNpZ25hdHVyZSI6InNYbEd6cUlwQXNmQXZiVnI1TG10aWtsTXZTKzlwTE52VHB4ckEyL2dNQmpBSFVSdVdvYkZuWC96WGRtNHRmd0pXNmFnRGQ5WVpEbzV3M0JJUERSbUFBPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjQxMDQ1NTI2NTM6NTNAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCWURuSnBJRDBVS2FOM3Vvazc1V0NkWWdHUTN6UVpaU2xjZnVJZUVSSmI1OSJ9fV0sInBsYXRmb3JtIjoic21iYSIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTcyMTA1ODg1NCwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFDQm8ifQ==",
       "required":true
       
     },
@@ -79,22 +79,22 @@
     {
     
     "description": "Votre nom",
-    "required": false,
-    "value": "Thomas"
+    "required": true,
+    "value": "kingsley"
   },
     "NUMERO_OWNER":
   {
     
     "description": "Votre numero de telephone; il doit etre dans le format ID+numero",
     "required":false,
-    "value": "2250545065189"
+    "value": "24104552653"
   },
     
 
     "WARN_COUNT":
   {
     "description": "il s'agit de nombre d'avertissement limite",
-    "required": false,
+    "required": true,
     "value": "3"
   },
   "STARTING_BOT_MESSAGE":
